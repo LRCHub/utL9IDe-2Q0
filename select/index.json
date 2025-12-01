@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "re:plus 「Yourside feat. Sam Ock」 Music Video",
+  "base_artist": "re:plus",
+  "createdAt": "2025-12-01T22:34:55.581589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yourside feat. Sam Ock",
+      "artist": "re:plus",
+      "has_synced": true,
+      "path": "select/01_Yourside_feat._Sam_Ock_re_plus.lrc"
+    }
+  ]
+}
